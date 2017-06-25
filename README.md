@@ -8,7 +8,7 @@ So here we go!
 
 ## Requirements
 
-<table>
+<table style="width: 100%;">
 <thead>
 <tr>
 <th>DOs</th>
