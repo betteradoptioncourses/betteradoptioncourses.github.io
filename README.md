@@ -8,20 +8,3 @@ So here we go!
 
 ## Requirements
 
-<table style="width: 100%;">
-<thead>
-<tr>
-<th>DOs</th>
-<th>DON'Ts</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Yes</td>
-<td>No</td>
-</tr>
-</tbody>
-<tfoot>
-<p>Footer</p>
-</tfoot>
-</table>
